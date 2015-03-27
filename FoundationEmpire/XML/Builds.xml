@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/12/2015 11:09:00 PM -->
+<GameData>
+	<Builds>
+		<Row>
+			<Type>BUILD_FOUNDATION_ACADEMY</Type>
+			<ImprovementType>IMPROVEMENT_FOUNDATION_ACADEMY</ImprovementType>
+			<Description>TXT_KEY_BUILD_FOUNDATION_ACADEMY</Description>
+			<Help>TXT_KEY_BUILD_CONSUMED_HELP</Help>
+			<Kill>1</Kill>
+			<EntityEvent>ENTITY_EVENT_MINE</EntityEvent>
+			<HotKey>KB_A</HotKey>
+			<OrderPriority>96</OrderPriority>
+			<IconIndex>23</IconIndex>
+			<IconAtlas>UNIT_ACTION_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>BUILD_FOUNDATION_CUSTOMS_HOUSE</Type>
+			<ImprovementType>IMPROVEMENT_FOUNDATION_CUSTOMS_HOUSE</ImprovementType>
+			<Description>TXT_KEY_BUILD_FOUNDATION_CUSTOMS_HOUSE</Description>
+			<Help>TXT_KEY_BUILD_CONSUMED_HELP</Help>
+			<Kill>1</Kill>
+			<EntityEvent>ENTITY_EVENT_MINE</EntityEvent>
+			<HotKey>KB_H</HotKey>
+			<OrderPriority>96</OrderPriority>
+			<IconIndex>57</IconIndex>
+			<IconAtlas>UNIT_ACTION_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>BUILD_FOUNDATION_HOLY_SITE</Type>
+			<ImprovementType>IMPROVEMENT_FOUNDATION_HOLY_SITE</ImprovementType>
+			<Description>TXT_KEY_BUILD_FOUNDATION_HOLY_SITE</Description>
+			<Help>TXT_KEY_BUILD_HOLY_SITE_HELP</Help>
+			<Kill>1</Kill>
+			<EntityEvent>ENTITY_EVENT_MINE</EntityEvent>
+			<HotKey>KB_L</HotKey>
+			<OrderPriority>96</OrderPriority>
+			<IconIndex>1</IconIndex>
+			<IconAtlas>EXPANSION_UNIT_ACTION_ATLAS</IconAtlas>
+		</Row>
+
+	</Builds>
+</GameData>

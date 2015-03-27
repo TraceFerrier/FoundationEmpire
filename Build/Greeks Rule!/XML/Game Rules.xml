@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/7/2015 4:20:27 PM -->
+<GameData>
+	<Units>
+
+		<Update>
+			<Set Combat="28"/>
+			<Where Type="UNIT_GREEK_HOPLITE"/>
+		</Update>
+
+		<Update>
+			<Set Moves="6"/>
+			<Where Type="UNIT_GREEK_HOPLITE"/>
+		</Update>
+
+		<Update>
+			<Set XPValueAttack="12"/>
+			<Where Type="UNIT_GREEK_HOPLITE"/>
+		</Update>
+
+		<Update>
+			<Set XPValueDefense="12"/>
+			<Where Type="UNIT_GREEK_HOPLITE"/>
+		</Update>
+
+		<Update>
+			<Set Combat="32"/>
+			<Where Type="UNIT_GREEK_COMPANIONCAVALRY"/>
+		</Update>
+
+		<Update>
+			<Set Moves="7"/>
+			<Where Type="UNIT_GREEK_COMPANIONCAVALRY"/>
+		</Update>
+
+		<Update>
+			<Set XPValueAttack="10"/>
+			<Where Type="UNIT_GREEK_COMPANIONCAVALRY"/>
+		</Update>
+
+		<Update>
+			<Set XPValueDefense="10"/>
+			<Where Type="UNIT_GREEK_COMPANIONCAVALRY"/>
+		</Update>
+
+	</Units>
+
+	<Leader_Traits>
+		<Row>
+			<LeaderType>LEADER_ALEXANDER</LeaderType>
+			<TraitType>TRAIT_BATTLE_FURY</TraitType>
+		</Row>
+	</Leader_Traits>
+
+</GameData>

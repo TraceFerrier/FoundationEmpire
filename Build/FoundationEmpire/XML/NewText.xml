@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/7/2015 12:52:13 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_ANACREON">
+			<Text>Anacreon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASKONE">
+			<Text>Askone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AURORA">
+			<Text>Aurora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CINNA">
+			<Text>Cinna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMPORELLON">
+			<Text>Comporellon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DARIBOW">
+			<Text>Daribow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAVEN">
+			<Text>Haven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HELICON">
+			<Text>Helicon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HORLEGGOR">
+			<Text>Horleggor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IFNI">
+			<Text>Ifni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KALGAN">
+			<Text>Kalgan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KONOM">
+			<Text>Konom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KORELL">
+			<Text>Korell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LYONESSE">
+			<Text>Lyonesse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MELPOMENIA">
+			<Text>Melpomenia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ROSSEM">
+			<Text>Rossem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SANTANNI">
+			<Text>Santanni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SARK">
+			<Text>Sark</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAYSHELL">
+			<Text>Sayshell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIWENNA">
+			<Text>Siwenna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SMYRNO">
+			<Text>Smyrno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SOLARIA">
+			<Text>Solaria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TAZENDA">
+			<Text>Tazenda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TERMINUS">
+			<Text>Terminus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TRANTOR">
+			<Text>Trantor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VINCETORI">
+			<Text>Vincetori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WANDA">
+			<Text>Wanda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_FOUNDATION_ADJECTIVE">
+			<Text>Foundation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_FOUNDATION_DESC">
+			<Text>Foundation Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_FOUNDATION_SHORT_DESC">
+			<Text>The Foundation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FOUNDATION_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FOUNDATION_TEXT_1">
+			<Text>
+				Humanity's first Galactic Empire was falling. It had been decaying and breaking down for centuries, and only one man fully realized that fact: Hari Seldon, the last great scientist of the First Empire. It was he who had perfected psychohistory -- the science of human behavior reduced to mathematical equations. Seldon's equations told him that left to itself, the Empire would fall, and 30,000 years of human misery would elapse before a second empire could arise. However, Psychohistory told Seldon that by adjusting conditions, that period of suffering could be reduced to just 1000 years.[NEWLINE][NEWLINE]It was to ensure this that Seldon set up two colonies of scientists known as "Foundations", one with advanced scientific expertise, the other (the "Second Foundation") with powerful "mentalic" powers, and with the capability wielding great influence over surrounding civilizations through technology, trade, and religion.[NEWLINE][NEWLINE]Can Seldon's band of physical and mentalic scientists survive the barbarism after the Fall to lead humanity to a greater and more enduring Empire?
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELDON_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELDON_TEXT_1">
+			<Text>Hari Seldon is the intellectual hero of the Foundation Empire. In his capacity as mathematics professor at Streeling University on Trantor, he developed psychohistory, allowing him to predict the future in probabilistic terms. His ability to predict disasters is the reason behind his nickname "Raven" Seldon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELDON_LIVED">
+			<Text>25 - 62 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELDON_NAME">
+			<Text>Hari Seldon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SELDON_SUBTITLE">
+			<Text>The genious behind the creation of the Foundation Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SELDON">
+			<Text>Hari Seldon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MASTER_SCIENTISTS_SHORT">
+			<Text>Leading through Science and Psychohistory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MASTER_SCIENTISTS">
+			<Text>Second Foundation Academies can train "Second Foundationers", who through Mentalics can suppress the will to fight of nearby enemies. Cities start with extra territory, the Pottery Tech, and can spawn powerful Foundation Scientists.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FAST_CIVILIANS">
+			<Text>Civilians move twice as fast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FAST_CIVILIANS_SHORT">
+			<Text>Settlers, workers, Great Prophets, and Missionaries moves twice as fast. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GALACTIC_LIBRARY">
+			<Text>Galactic Library</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_GALACTIC_LIBRARY_HELP">
+			<Text>Provides 1 Free Foundation Scientist, as well as culture and production benefits.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_GALACTIC_TEMPLE_HELP">
+			<Text>Requires no [ICON_GOLD] Gold maintenance. Provides significant additional faith and culture benefits.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GALACTIC_TEMPLE">
+			<Text>Foundation Temple</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FOUNDATION_CAVALRY">
+			<Text>Foundation Cavalry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_FOUNDATION_CAVALRY">
+			<Text>This extremely powerful and fast cavalry makes use of advanced Foundation technology to outrun its enemies.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNITCOMBAT_CIVILIAN">
+			<Text>Civilian Units</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FOUNDATION_MOD_0">
+			<Text>Lors Avakim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FOUNDATION_MOD_1">
+			<Text>Pelleas Anthor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FOUNDATION_MOD_2">
+			<Text>Arkady Darell</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FOUNDATION_MOD_3">
+			<Text>Ducem Barr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FOUNDATION_MOD_4">
+			<Text>Bayta Darell</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FOUNDATION_MOD_5">
+			<Text>Yohan Lee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FOUNDATION_MOD_6">
+			<Text>Dors Venabili</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FOUNDATION_MOD_7">
+			<Text>Mandell Gruber</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FOUNDATION_MOD_8">
+			<Text>Ebling Mis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FOUNDATION_MOD_9">
+			<Text>Yate Fulham</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_FOUNDATION_VISIBILITY_DESC">
+			<Text>Foundation Optics</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FOUNDATION_VISIBILITY_HELP">
+			<Text>All melee, mounted, and gun units have 1 extra sight.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FOUNDATION_ARMOR_DESC">
+			<Text>Foundation Armor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FOUNDATION_ARMOR_HELP">
+			<Text>Melee and ballistic-resistant armor, developed exclusively by the Foundation, provides a defensive bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FOUNDATION_PERSONAL_SHIELD_DESC">
+			<Text>Foundation Personal Force Shield</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FOUNDATION_PERSONAL_SHIELD_HELP">
+			<Text>A powerful personal force-shield, providing a large defensive bonus.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_FOUNDATION_ADVANCED_SHIELD_DESC">
+			<Text>Foundation Force Shield</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FOUNDATION_ADVANCED_SHIELD_HELP">
+			<Text>A personal force-shield, providing a defensive bonus to the unit carrying it.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_FOUNDATION_MERCHANT_PRINCE">
+			<Text>Merchant Prince</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_FOUNDATION_SCOUT">
+			<Text>Explorer</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_HELP_FOUNDATION_SCOUT">
+			<Text>Excellent at exploring, a Foundation Explorer is fast, and carries a Foundation personal shield, providing a defensive bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FOUNDATION_PROPHET">
+			<Text>Galactic Spirit Priest</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_FOUNDATION_SCIENTIST">
+			<Text>Terminus Scientist</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_FOUNDATION_ACADEMY">
+			<Text>Foundation Academy</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_FOUNDATION_CUSTOMS_HOUSE">
+			<Text>Foundation Customs House</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FOUNDATION_HOLY_SITE">
+			<Text>Foundation Holy Site</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FOUNDATION_ACADEMY">
+			<Text>Construct a Foundation Academy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FOUNDATION_CUSTOMS_HOUSE">
+			<Text>Construct a Foundation Customs House</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FOUNDATION_HOLY_SITE">
+			<Text>Construct a Foundation Holy Site</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SECOND_FOUNDATIONER">
+			<Text>Second Foundationer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SECOND_FOUNDATION_ACADEMY">
+			<Text>Second Foundation Academy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SECOND_FOUNDATION_ACADEMY_HELP">
+			<Text>Enables the Foundation to train Second Foundationers, Great Persons who possess powerful Mentalics that can suppress the will to fight of Foundation enemies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_MENTALIC">
+			<Text>Second Foundation Mentalic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_MENTALIC_TITLE">
+			<Text>Second Foundationer Points:</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPECIALIST_MENTALIC_SLOTS">
+			<Text>Second Foundationer Slots:</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_SECOND_FOUNDATIONER_STRATEGY">
+			<Text>A Second Foundationer can use Mentalics to suppress the will to fight of enemies that are within range. Foundation units that are within 5 tiles recieve a significant defensive bonus, and a milder attack bonus, with the effect growing stronger the closer the unit is to the Second Foundationer. The Second Foundationer is NOT consumed when providing this bonus. [NEWLINE][NEWLINE]A Second Foundationer can also initiate a Golden Age (and will be consumed if this bonus is taken). [NEWLINE][NEWLINE]When not out charting the future history of the Foundation Empire, Second Foundationers were also not averse to working the land on Trantor as farmers. Thus, Second Foundationer units are generally able to build any improvement that a Worker can, and can usually work at least twice as fast as a Worker.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SECOND_FOUNDATIONER_TEXT">
+			<Text>The Second Foundation was founded by Hari Seldon as a budding colony of mentalics, people with the abilities to sense and alter the emotions of others. Located at Star's End, it's purpose was to be hidden from the first Foundation and help insure success in the plan set out by Hari Seldon. A Second Foundationer has the ability to suppress the will of enemies (providing a defensive bonus to Foundation units), and can also will Foundation Workers to extra [ICON_PRODUCTION] Production capabilities.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_SECOND_FOUNDATION_ATTACK_SUPPRESS_HIGH_DESC">
+			<Text>Second Foundationer Mentalics (High)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SECOND_FOUNDATION_ATTACK_SUPPRESS_HIGH_HELP">
+			<Text>The attack capabilities of this unit reduced by 60%.</Text>
+		</Row>
+
+		
+		<Row Tag="TXT_KEY_PROMOTION_SECOND_FOUNDATION_ATTACK_SUPPRESS_MED_DESC">
+			<Text>Second Foundationer Mentalics (Medium)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SECOND_FOUNDATION_ATTACK_SUPPRESS_MED_HELP">
+			<Text>The attack capabilities of this unit reduced by 40%.</Text>
+		</Row>
+
+		
+		<Row Tag="TXT_KEY_PROMOTION_SECOND_FOUNDATION_ATTACK_SUPPRESS_LOW_DESC">
+			<Text>Second Foundationer Mentalics (Low)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SECOND_FOUNDATION_ATTACK_SUPPRESS_LOW_HELP">
+			<Text>The attack capabilities of this unit reduced by 25%.</Text>
+		</Row>
+
+		
+		<Row Tag="TXT_KEY_PROMOTION_SECOND_FOUNDATION_DEFENSE_HIGH_DESC">
+			<Text>Second Foundationer Defense (High)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SECOND_FOUNDATION_DEFENSE_HIGH_HELP">
+			<Text>This unit is receiving an overall 50% defense bonus.</Text>
+		</Row>
+
+		
+		<Row Tag="TXT_KEY_PROMOTION_SECOND_FOUNDATION_DEFENSE_MED_DESC">
+			<Text>Second Foundationer Defense (Medium)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SECOND_FOUNDATION_DEFENSE_MED_HELP">
+			<Text>This unit is receiving an overall 35% defense bonus.</Text>
+		</Row>
+
+		
+		<Row Tag="TXT_KEY_PROMOTION_SECOND_FOUNDATION_DEFENSE_LOW_DESC">
+			<Text>Second Foundationer Defense (Low)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SECOND_FOUNDATION_DEFENSE_LOW_HELP">
+			<Text>This unit is receiving an overall 20% defense bonus.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SECOND_FOUNDATIONER_0">
+			<Text>Preem Palver</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SECOND_FOUNDATIONER_1">
+			<Text>Stor Gendibal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SECOND_FOUNDATIONER_2">
+			<Text>Wanda Seldon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SECOND_FOUNDATIONER_3">
+			<Text>Sura Novi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SECOND_FOUNDATIONER_4">
+			<Text>Gaal Dornick</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SECOND_FOUNDATIONER_5">
+			<Text>Bor Alurin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SECOND_FOUNDATIONER_6">
+			<Text>Lady Callia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SECOND_FOUNDATIONER_7">
+			<Text>Munn Li Compor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SECOND_FOUNDATIONER_8">
+			<Text>Stettin Palver</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SECOND_FOUNDATIONER_9">
+			<Text>Quindor Shandess</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MERCHANT_PRINCE_0">
+			<Text>Hober Mallow</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MERCHANT_PRINCE_1">
+			<Text>Lathan Devers</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MERCHANT_PRINCE_2">
+			<Text>Sennett Forell</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MERCHANT_PRINCE_3">
+			<Text>Toran Darell</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MERCHANT_PRINCE_4">
+			<Text>Eskell Gorov</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MERCHANT_PRINCE_5">
+			<Text>Linmar Ponyets</Text>
+		</Row>
+
+	</Language_en_US>
+
+</GameData>

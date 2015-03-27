@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="6b741858-0071-4c81-a794-9cce97a0c983" version="1">
+  <Properties>
+    <Name>Greeks Rule!</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Grants the Greeks furious new battle powers of attack, defense, and movement.</Teaser>
+    <Description>Grants the Greeks furious new battle powers of attack, defense, and movement.</Description>
+    <Authors>Trace</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="08B79C31FE469A613FA4DDD53554C76B" import="0">XML/CIV5Traits.xml</File>
+    <File md5="EED8FB183CFD54D4C2E1E57B87151928" import="0">XML/Game Rules.xml</File>
+    <File md5="4C216749DA9E075D80ACD2E2B477D8CC" import="0">XML/NewText.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/CIV5Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Game Rules.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

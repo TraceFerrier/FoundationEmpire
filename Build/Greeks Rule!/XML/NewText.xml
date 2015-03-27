@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/10/2015 5:45:13 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TRAIT_BATTLE_FURY">
+			<Text>Battle units get furious new powers of attack, defense, and movement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_BATTLE_FURY_SHORT">
+			<Text>Battle Fury</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

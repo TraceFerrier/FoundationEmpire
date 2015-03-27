@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="6b741858-0071-4c81-a794-9cce97a0c983" version="1">
+  <Properties>
+    <Name>Foundation Empire</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds Isaac Asimov's Foundation Empire, masters of Science and Psychohistory, to the base game.</Teaser>
+    <Description>Adds Isaac Asimov's Foundation Empire, masters of Science and Psychohistory, to the base game.</Description>
+    <Authors>Trace Ferrier</Authors>
+    <SpecialThanks>Isaac Asimov</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="1E002BAE23AA4570C257E6170467F9E1" import="1">Art/AsimovPortrait.dds</File>
+    <File md5="CA4854DA45A0E1D8556858B009B16820" import="1">Art/MapFoundation.dds</File>
+    <File md5="185FCC7CACCEED02B0979CD80390B31E" import="1">Art/SeldonDiploMod.dds</File>
+    <File md5="648B504C9861ED5C7464F5AB823B3DC7" import="1">Art/SeldonModAtlas128.dds</File>
+    <File md5="73D6D88A13912D5846ECF33E0F21DE06" import="1">Art/SeldonModAtlas256.dds</File>
+    <File md5="9612704BBA72D6A5B25DDD4812F944D8" import="1">Art/SeldonModAtlas32.dds</File>
+    <File md5="E4791EAC53EDF6998FE680A506B13481" import="1">Art/SeldonModAtlas45.dds</File>
+    <File md5="57BAA5C1BB6167B9BA02FE341648442C" import="1">Art/SeldonModAtlas64.dds</File>
+    <File md5="5FE8ABA3F682D62DA62F1FADBE0E14DF" import="1">Art/SeldonModAtlas80.dds</File>
+    <File md5="63BDC9E275BE04DDF447F0FE58EDCA8C" import="1">Art/UnitFlagAtlas.dds</File>
+    <File md5="2E0ED08D4123759F73E3D2D5AD1789E5" import="1">Art/UnitFlagAtlas2.dds</File>
+    <File md5="78E014E48DB9EF56399FCD51B4B4D298" import="1">Art/UnitFlagAtlas3.dds</File>
+    <File md5="A399F03F3EEFDD0118E57716E204A0AA" import="1">Art/UnitModAtlas128.dds</File>
+    <File md5="A38A4AB019DEC1424DE9CD2DC90D5E1D" import="1">Art/UnitModAtlas256.dds</File>
+    <File md5="A402F0A611441B78E3C7C3309B1E7852" import="1">Art/UnitModAtlas32.dds</File>
+    <File md5="32CCEB101014E72EB613D5672A349339" import="1">Art/UnitModAtlas45.dds</File>
+    <File md5="F6EB5AB7FD8958FEDDCC876EC48E6756" import="1">Art/UnitModAtlas64.dds</File>
+    <File md5="7274EE1B5CEC6ABE4681DD50875FF5A3" import="1">Art/UnitModAtlas80.dds</File>
+    <File md5="C5A9F80DB4E5C1BC8BD636CE74448486" import="1">CvGameCore_Expansion2.dll</File>
+    <File md5="253A27291B040D6F7C44768FBFB07943" import="1">Lua/AddFoundationBonuses.lua</File>
+    <File md5="219A70A78ED5EF420FDA31AC41292F2D" import="1">Lua/FoundationSetup.lua</File>
+    <File md5="3AF9AA92799E205E88CC029E79BB1C6D" import="1">Lua/LoadScreen.lua</File>
+    <File md5="6F7D3796C23FF3E7D480C4DDE9BACF3C" import="0">Lua/Lua Script1.lua</File>
+    <File md5="29321D87A434922644FB98D71916E745" import="1">Lua/FoundationUtilities.lua</File>
+    <File md5="69750E92F6E6A51EE5641B006256649B" import="1">Lua/PlotWalk.lua</File>
+    <File md5="3C0AC69AFF18272AE55EECD2108F13A8" import="1">Lua/AddFoundationResources.lua</File>
+    <File md5="FF906F7F288C30BC29EC63AE5E3B1EDB" import="0">Lua/SecondFoundationer.lua</File>
+    <File md5="D656058C147EC3F6A60B85579504DC2A" import="0">XML/Buildings.xml</File>
+    <File md5="CAA5EC232EA233950F8B687123F0571A" import="0">XML/Builds.xml</File>
+    <File md5="20B41D8A5E512FA41C469A590F85C268" import="0">XML/Civilizations.xml</File>
+    <File md5="24AAB6EECD1E24577BBAA58F9765AE9A" import="0">XML/Improvements.xml</File>
+    <File md5="E54E2F3C45B74E62CA4595E40C6DCBDE" import="0">XML/Leaders/CIV5IconTextureAtlases.xml</File>
+    <File md5="B64010F19780BA652C269EC654CA305B" import="0">XML/Leaders/CIV5Leader_Seldon.xml</File>
+    <File md5="D39D598B07B9D89E1076DB64787F8B4A" import="0">XML/Leaders/SeldonDiplomacy.xml</File>
+    <File md5="454D69973E170A7840CB750232AB65D9" import="1">XML/Leaders/Seldon_Leader_Scene_Mod.xml</File>
+    <File md5="572C7300230653A8F00D1C5F4377F8EC" import="0">XML/Leaders/Seldon_Scenario.xml</File>
+    <File md5="6B2CB1FFB10525FB8D5F555D28555C2F" import="0">XML/NewText.xml</File>
+    <File md5="314A01D338B25D3B74F427C0178902EA" import="0">XML/Promotions.xml</File>
+    <File md5="EC486ADC8790F6CD89201F93C49A168D" import="0">XML/Specialists.xml</File>
+    <File md5="DA5CC6805F863D50D7CED28D93BC7141" import="0">XML/Traits.xml</File>
+    <File md5="A48583BA3CD6D9D5FB546B88C5BBBEBC" import="0">XML/Units.xml</File>
+    <File md5="2A5DF1F41B6EA129599A5A9652B29665" import="0">XML/UnitsBackup.xml</File>
+    <File md5="103F9FFCAFC909247E508BC4C3BEF5EC" import="0">XML/Unit_UniqueNames.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/NewText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/CIV5Leader_Seldon.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Promotions.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Improvements.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Builds.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/CIV5IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Seldon_Scenario.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/SeldonDiplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Specialists.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Unit_UniqueNames.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/SecondFoundationer.lua">
+      <Name>Second Foundationer Effects</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

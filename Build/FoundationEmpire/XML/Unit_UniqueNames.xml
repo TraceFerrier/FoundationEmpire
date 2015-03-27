@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/22/2015 9:27:19 PM -->
+<GameData>
+	<Unit_UniqueNames>
+		<Row>
+			<UnitType>UNIT_SECOND_FOUNDATIONER</UnitType>
+			<UniqueName>TXT_KEY_SECOND_FOUNDATIONER_0</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SECOND_FOUNDATIONER</UnitType>
+			<UniqueName>TXT_KEY_SECOND_FOUNDATIONER_1</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SECOND_FOUNDATIONER</UnitType>
+			<UniqueName>TXT_KEY_SECOND_FOUNDATIONER_2</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SECOND_FOUNDATIONER</UnitType>
+			<UniqueName>TXT_KEY_SECOND_FOUNDATIONER_3</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SECOND_FOUNDATIONER</UnitType>
+			<UniqueName>TXT_KEY_SECOND_FOUNDATIONER_4</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SECOND_FOUNDATIONER</UnitType>
+			<UniqueName>TXT_KEY_SECOND_FOUNDATIONER_5</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SECOND_FOUNDATIONER</UnitType>
+			<UniqueName>TXT_KEY_SECOND_FOUNDATIONER_6</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SECOND_FOUNDATIONER</UnitType>
+			<UniqueName>TXT_KEY_SECOND_FOUNDATIONER_7</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SECOND_FOUNDATIONER</UnitType>
+			<UniqueName>TXT_KEY_SECOND_FOUNDATIONER_8</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SECOND_FOUNDATIONER</UnitType>
+			<UniqueName>TXT_KEY_SECOND_FOUNDATIONER_9</UniqueName>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_FOUNDATION_MERCHANT_PRINCE</UnitType>
+			<UniqueName>TXT_KEY_MERCHANT_PRINCE_0</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_FOUNDATION_MERCHANT_PRINCE</UnitType>
+			<UniqueName>TXT_KEY_MERCHANT_PRINCE_1</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_FOUNDATION_MERCHANT_PRINCE</UnitType>
+			<UniqueName>TXT_KEY_MERCHANT_PRINCE_2</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_FOUNDATION_MERCHANT_PRINCE</UnitType>
+			<UniqueName>TXT_KEY_MERCHANT_PRINCE_3</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_FOUNDATION_MERCHANT_PRINCE</UnitType>
+			<UniqueName>TXT_KEY_MERCHANT_PRINCE_4</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_FOUNDATION_MERCHANT_PRINCE</UnitType>
+			<UniqueName>TXT_KEY_MERCHANT_PRINCE_5</UniqueName>
+		</Row>
+
+	</Unit_UniqueNames>
+</GameData>

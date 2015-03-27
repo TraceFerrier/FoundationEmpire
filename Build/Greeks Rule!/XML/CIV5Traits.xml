@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/7/2015 3:29:59 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_BATTLE_FURY</Type>
+			<Description>TXT_KEY_TRAIT_BATTLE_FURY</Description>
+			<ShortDescription>TXT_KEY_TRAIT_BATTLE_FURY_SHORT</ShortDescription>
+			<CultureFromKills>100</CultureFromKills>
+			<PopulationUnhappinessModifier>-50</PopulationUnhappinessModifier>
+			<WonderProductionModifier>50</WonderProductionModifier>
+			<ExtraFoundedCityTerritoryClaimRange>8</ExtraFoundedCityTerritoryClaimRange>
+		</Row>
+	</Traits>
+
+	<Trait_FreePromotionUnitCombats>
+		<Row>
+			<TraitType>TRAIT_BATTLE_FURY</TraitType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+			<PromotionType>PROMOTION_SECOND_ATTACK</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_BATTLE_FURY</TraitType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+			<PromotionType>PROMOTION_IGNORE_TERRAIN_COST</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_BATTLE_FURY</TraitType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+			<PromotionType>PROMOTION_REPAIR</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_BATTLE_FURY</TraitType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+			<PromotionType>PROMOTION_SECOND_ATTACK</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_BATTLE_FURY</TraitType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+			<PromotionType>PROMOTION_IGNORE_TERRAIN_COST</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_BATTLE_FURY</TraitType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+			<PromotionType>PROMOTION_SCOUTING_1</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_BATTLE_FURY</TraitType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+			<PromotionType>PROMOTION_SECOND_ATTACK</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_BATTLE_FURY</TraitType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+			<PromotionType>PROMOTION_IGNORE_TERRAIN_COST</PromotionType>
+		</Row>
+	</Trait_FreePromotionUnitCombats>
+  
+</GameData>

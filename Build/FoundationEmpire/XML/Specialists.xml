@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/15/2015 1:47:56 PM -->
+<GameData>
+	<Specialists>
+		<Row>
+			<Type>SPECIALIST_MENTALIC</Type>
+			<Description>TXT_KEY_SPECIALIST_MENTALIC</Description>
+			<Strategy>TXT_KEY_SPECIALIST_WRITER_STRATEGY</Strategy>
+			<GreatPeopleTitle>TXT_KEY_SPECIALIST_MENTALIC_TITLE</GreatPeopleTitle>
+			<Visible>true</Visible>
+			<Cost>0</Cost>
+			<GreatPeopleUnitClass>UNITCLASS_SECOND_FOUNDATIONER</GreatPeopleUnitClass>
+			<GreatPeopleRateChange>5</GreatPeopleRateChange>
+			<CulturePerTurn>4</CulturePerTurn>
+			<IconAtlas>CITIZEN_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+	</Specialists>
+
+	<SpecialistYields>
+		<Row>
+			<SpecialistType>SPECIALIST_MENTALIC</SpecialistType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>3</Yield>
+		</Row>
+	</SpecialistYields>
+</GameData>
