@@ -60,11 +60,6 @@
 		</Row>
 		<Row>
 			<TraitType>TRAIT_FAST_CIVILIANS</TraitType>
-			<UnitCombatType>UNITCOMBAT_HELICOPTER</UnitCombatType>
-			<MovesChange>2</MovesChange>
-		</Row>
-		<Row>
-			<TraitType>TRAIT_FAST_CIVILIANS</TraitType>
 			<UnitCombatType>UNITCOMBAT_BOMBER</UnitCombatType>
 			<MovesChange>3</MovesChange>
 		</Row>
@@ -100,11 +95,6 @@
 			<TraitType>TRAIT_MASTERS_OF_TECHNOLOGY</TraitType>
 			<UnitCombatType>UNITCOMBAT_ARMOR</UnitCombatType>
 			<PromotionType>PROMOTION_FOUNDATION_VISIBILITY</PromotionType>
-		</Row>
-		<Row>
-			<TraitType>TRAIT_MASTERS_OF_TECHNOLOGY</TraitType>
-			<UnitCombatType>UNITCOMBAT_ARMOR</UnitCombatType>
-			<PromotionType>UNITCOMBAT_HELICOPTER</PromotionType>
 		</Row>
 	</Trait_FreePromotionUnitCombats>
 </GameData>

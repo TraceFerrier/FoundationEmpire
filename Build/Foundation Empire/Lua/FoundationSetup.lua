@@ -13,5 +13,5 @@ function FoundationSetup(iCivID)
 	end
 
 	AddFoundationResources(player);
-	AddFoundationBonuses(player);
+	--AddFoundationBonuses(player);
 end

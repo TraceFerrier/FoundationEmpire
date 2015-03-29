@@ -11,6 +11,21 @@ PromoOffenseHigh = "PROMOTION_SECOND_FOUNDATION_ATTACK_SUPPRESS_HIGH";
 PromoOffenseMedium = "PROMOTION_SECOND_FOUNDATION_ATTACK_SUPPRESS_MEDIUM";
 PromoOffenseLow = "PROMOTION_SECOND_FOUNDATION_ATTACK_SUPPRESS_LOW";
 TypeSecondFoundationer = GameInfoTypes["UNIT_SECOND_FOUNDATIONER"];
+TypeFoundationScientist = GameInfoTypes["UNIT_FOUNDATION_SCIENTIST"];
+TypeFoundationMerchantPrince = GameInfoTypes["UNIT_FOUNDATION_MERCHANT_PRINCE"];
+TypeWorker = GameInfoTypes["UNIT_WORKER"];
+TypeSettler = GameInfoTypes["UNIT_SETTLER"];
+TypeMissionary = GameInfoTypes["UNIT_MISSIONARY"];
+TypeProphet = GameInfoTypes["UNIT_PROPHET"];
+TypeScientist = GameInfoTypes["UNIT_SCIENTIST"];
+TypeGeneral = GameInfoTypes["UNIT_GREAT_GENERAL"];
+TypeMerchant = GameInfoTypes["UNIT_MERCHANT"];
+TypeArtist = GameInfoTypes["UNIT_ARTIST"];
+TypeEngineer = GameInfoTypes["UNIT_ENGINEER"];
+TypeWorkboat = GameInfoTypes["UNIT_WORKBOAT"];
+TypeAtomicBomb = GameInfoTypes["UNIT_ATOMIC_BOMB"];
+TypeNuclearMissile = GameInfoTypes["UNIT_NUCLEAR_MISSILE"];
+
 TypeFoundationCivilization = GameInfoTypes["CIVILIZATION_FOUNDATION"];
 MoveRight = 1;
 MoveDown = 2;
@@ -124,6 +139,72 @@ function ApplyPromotionsToEnemy(unit, distance)
 	end
 end
 
+function CanUnitTakeSecondFoundationerPromotion(unit)
+	local unitType = unit:GetUnitType();
+
+	if (unitType == TypeSecondFoundationer) then
+		return false;
+	end
+
+	if (unitType == TypeFoundationScientist) then
+		return false;
+	end
+
+	if (unitType == TypeFoundationMerchantPrince) then
+		return false;
+	end
+
+	if (unitType == TypeWorker) then
+		return false;
+	end
+
+	if (unitType == TypeSettler) then
+		return false;
+	end
+
+	if (unitType == TypeMissionary) then
+		return false;
+	end
+
+	if (unitType == TypeProphet) then
+		return false;
+	end
+
+	if (unitType == TypeScientist) then
+		return false;
+	end
+
+	if (unitType == TypeGeneral) then
+		return false;
+	end
+
+	if (unitType == TypeMerchant) then
+		return false;
+	end
+
+	if (unitType == TypeArtist) then
+		return false;
+	end
+
+	if (unitType == TypeEngineer) then
+		return false;
+	end
+
+	if (unitType == TypeWorkboat) then
+		return false;
+	end
+
+	if (unitType == TypeAtomicBomb) then
+		return false;
+	end
+
+	if (unitType == TypeNuclearMissile) then
+		return false;
+	end
+
+	return true;
+end
+
 ------------------------------------------------------------------------
 -- FindUnitsInRangeOfSecondFoundationerAndApplyEffects 
 ------------------------------------------------------------------------
@@ -155,7 +236,7 @@ function FindUnitsInRangeOfSecondFoundationerAndApplyEffects(secondFoundationerU
 				for i = 0, plot:GetNumUnits() - 1, 1 do
 					local unit = plot:GetUnit(i);
 					if (unit ~= nil) then
-						if unit:GetUnitType() ~= TypeSecondFoundationer then
+						if (CanUnitTakeSecondFoundationerPromotion(unit)) then
 							-- print("Found unit: " .. unit:GetName());
 							unitPlayerID = unit:GetOwner();
 							unitPlayer = Players[unitPlayerID];
