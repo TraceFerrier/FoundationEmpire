@@ -21,6 +21,13 @@ function AddFoundationResources(foundationPlayer)
 		return;
 	end
 
+	-- Only lay out resources when a new game is first started
+	-- (not when a saved game is loaded).
+	local iTurn = Game.GetGameTurn();
+	if (iTurn > 0) then
+		return;
+	end
+
 	-- Give a higher resource bonus when playing against higher difficulty levels
 	local resourceToAddCount = 0;
 	local iHandicap = Game:GetHandicapType();
@@ -39,7 +46,7 @@ function AddFoundationResources(foundationPlayer)
 	end
 
 	localResourcesAdded = 0;
-	print("AddFoundationResources: " .. foundationPlayer:GetName());
+	print("AddFoundationResources: " .. foundationPlayer:GetName() .. " Turn: " .. iTurn);
 	InitializeResources();
 	local startingPlot = foundationPlayer:GetStartingPlot();
 	if (startingPlot ~= nil) then

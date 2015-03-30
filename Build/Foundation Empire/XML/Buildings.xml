@@ -21,7 +21,7 @@
 			<Strategy>TXT_KEY_BUILDING_UNIVERSITY_STRATEGY</Strategy>
 			<ArtDefineTag>ART_DEF_BUILDING_UNIVERSITY</ArtDefineTag>
 			<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
-			<GreatPeopleRateChange>4</GreatPeopleRateChange>
+			<GreatPeopleRateChange>3</GreatPeopleRateChange>
 			<SpecialistCount>3</SpecialistCount>
 			<GlobalCultureRateModifier>25</GlobalCultureRateModifier>
 			<MinAreaSize>-1</MinAreaSize>
@@ -127,12 +127,12 @@
 		<Row>
 			<BuildingType>BUILDING_GALACTIC_LIBRARY</BuildingType>
 			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>6</Yield>
+			<Yield>5</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_GALACTIC_LIBRARY</BuildingType>
 			<YieldType>YIELD_CULTURE</YieldType>
-			<Yield>4</Yield>
+			<Yield>3</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_GALACTIC_LIBRARY</BuildingType>
@@ -142,7 +142,7 @@
 		<Row>
 			<BuildingType>BUILDING_SECOND_FOUNDATION_ACADEMY</BuildingType>
 			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>4</Yield>
+			<Yield>3</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_SECOND_FOUNDATION_ACADEMY</BuildingType>
@@ -180,7 +180,7 @@
 		<Row>
 			<BuildingType>BUILDING_SECOND_FOUNDATION_ACADEMY</BuildingType>
 			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>33</Yield>
+			<Yield>25</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_GALACTIC_TEMPLE</BuildingType>
@@ -195,7 +195,7 @@
 		<Row>
 			<BuildingType>BUILDING_FOUNDATION_MARKET</BuildingType>
 			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>33</Yield>
+			<Yield>25</Yield>
 		</Row>
 	</Building_YieldModifiers>
 

@@ -69,7 +69,7 @@
 			<ImprovementType>IMPROVEMENT_FOUNDATION_ACADEMY</ImprovementType>
 			<TechType>TECH_EDUCATION</TechType>
 			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>4</Yield>
+			<Yield>3</Yield>
 		</Row>
 		<Row>
 			<ImprovementType>IMPROVEMENT_FOUNDATION_ACADEMY</ImprovementType>
@@ -87,31 +87,31 @@
 			<ImprovementType>IMPROVEMENT_FOUNDATION_ACADEMY</ImprovementType>
 			<TechType>TECH_CHEMISTRY</TechType>
 			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>5</Yield>
+			<Yield>3</Yield>
 		</Row>
 		<Row>
 			<ImprovementType>IMPROVEMENT_FOUNDATION_ACADEMY</ImprovementType>
 			<TechType>TECH_SCIENTIFIC_THEORY</TechType>
 			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>6</Yield>
+			<Yield>3</Yield>
 		</Row>
 		<Row>
 			<ImprovementType>IMPROVEMENT_FOUNDATION_ACADEMY</ImprovementType>
 			<TechType>TECH_BIOLOGY</TechType>
 			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>5</Yield>
+			<Yield>3</Yield>
 		</Row>
 		<Row>
 			<ImprovementType>IMPROVEMENT_FOUNDATION_ACADEMY</ImprovementType>
 			<TechType>TECH_ELECTRICITY</TechType>
 			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>6</Yield>
+			<Yield>3</Yield>
 		</Row>
 		<Row>
 			<ImprovementType>IMPROVEMENT_FOUNDATION_ACADEMY</ImprovementType>
 			<TechType>TECH_ATOMIC_THEORY</TechType>
 			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>8</Yield>
+			<Yield>4</Yield>
 		</Row>
 
 		<Row>
@@ -124,25 +124,25 @@
 			<ImprovementType>IMPROVEMENT_FOUNDATION_ACADEMY</ImprovementType>
 			<TechType>TECH_ACOUSTICS</TechType>
 			<YieldType>YIELD_CULTURE</YieldType>
-			<Yield>4</Yield>
+			<Yield>3</Yield>
 		</Row>
 		<Row>
 			<ImprovementType>IMPROVEMENT_FOUNDATION_ACADEMY</ImprovementType>
 			<TechType>TECH_PRINTING_PRESS</TechType>
 			<YieldType>YIELD_CULTURE</YieldType>
-			<Yield>4</Yield>
+			<Yield>3</Yield>
 		</Row>
 		<Row>
 			<ImprovementType>IMPROVEMENT_FOUNDATION_ACADEMY</ImprovementType>
 			<TechType>TECH_ARCHITECTURE</TechType>
 			<YieldType>YIELD_CULTURE</YieldType>
-			<Yield>5</Yield>
+			<Yield>3</Yield>
 		</Row>
 		<Row>
 			<ImprovementType>IMPROVEMENT_FOUNDATION_ACADEMY</ImprovementType>
 			<TechType>TECH_RADIO</TechType>
 			<YieldType>YIELD_CULTURE</YieldType>
-			<Yield>6</Yield>
+			<Yield>3</Yield>
 		</Row>
 
 		<Row>
@@ -198,14 +198,14 @@
 			<ImprovementType>IMPROVEMENT_FOUNDATION_HOLY_SITE</ImprovementType>
 			<TechType>TECH_PRINTING_PRESS</TechType>
 			<YieldType>YIELD_FAITH</YieldType>
-			<Yield>6</Yield>
+			<Yield>3</Yield>
 		</Row>
 
 		<Row>
 			<ImprovementType>IMPROVEMENT_FOUNDATION_HOLY_SITE</ImprovementType>
 			<TechType>TECH_RADIO</TechType>
 			<YieldType>YIELD_FAITH</YieldType>
-			<Yield>4</Yield>
+			<Yield>3</Yield>
 		</Row>
 
 	</Improvement_TechYieldChanges>

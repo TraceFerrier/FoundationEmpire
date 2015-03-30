@@ -48,13 +48,13 @@
 		<Row>
 			<CivilizationType>CIVILIZATION_FOUNDATION</CivilizationType>
 			<UnitClassType>UNITCLASS_SECOND_FOUNDATIONER</UnitClassType>
-			<Count>1</Count>
+			<Count>0</Count>
 			<UnitAIType>UNITAI_GENERAL</UnitAIType>
 		</Row>
 		<Row>
 			<CivilizationType>CIVILIZATION_FOUNDATION</CivilizationType>
 			<UnitClassType>UNITCLASS_MERCHANT</UnitClassType>
-			<Count>1</Count>
+			<Count>0</Count>
 			<UnitAIType>UNITAI_MERCHANT</UnitAIType>
 		</Row>
 	</Civilization_FreeUnits>

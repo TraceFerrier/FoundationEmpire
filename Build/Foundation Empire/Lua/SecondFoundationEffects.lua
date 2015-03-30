@@ -25,6 +25,9 @@ TypeEngineer = GameInfoTypes["UNIT_ENGINEER"];
 TypeWorkboat = GameInfoTypes["UNIT_WORKBOAT"];
 TypeAtomicBomb = GameInfoTypes["UNIT_ATOMIC_BOMB"];
 TypeNuclearMissile = GameInfoTypes["UNIT_NUCLEAR_MISSILE"];
+TypeCaravan = GameInfoTypes["UNIT_CARAVAN"];
+TypeBomber = GameInfoTypes["UNIT_BOMBER"];
+TypeStealthBomber = GameInfoTypes["UNIT_STEALTH_BOMBER"];
 
 TypeFoundationCivilization = GameInfoTypes["CIVILIZATION_FOUNDATION"];
 MoveRight = 1;
@@ -202,6 +205,18 @@ function CanUnitTakeSecondFoundationerPromotion(unit)
 		return false;
 	end
 
+	if (unitType == TypeCaravan) then
+		return false;
+	end
+
+	if (unitType == TypeBomber) then
+		return false;
+	end
+
+	if (unitType == TypeStealthBomber) then
+		return false;
+	end
+
 	return true;
 end
 
@@ -327,4 +342,4 @@ end
 
 -- GameEvents.UnitSetXY.Add(ApplySecondFoundationerEffects)
 
-GameEvents.PlayerDoTurn.Add(HandleFoundationEffects)
+-- GameEvents.PlayerDoTurn.Add(HandleFoundationEffects)

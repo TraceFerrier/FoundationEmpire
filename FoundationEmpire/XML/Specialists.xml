@@ -21,7 +21,7 @@
 		<Row>
 			<SpecialistType>SPECIALIST_MENTALIC</SpecialistType>
 			<YieldType>YIELD_FAITH</YieldType>
-			<Yield>3</Yield>
+			<Yield>2</Yield>
 		</Row>
 	</SpecialistYields>
 </GameData>

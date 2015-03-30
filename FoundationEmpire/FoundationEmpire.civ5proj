@@ -97,7 +97,7 @@
         <Type>InGameUIAddin</Type>
         <Name>Second Foundationer Effects</Name>
         <Description />
-        <FileName>Lua/SecondFoundationer.lua</FileName>
+        <FileName>Lua/SecondFoundationEffects.lua</FileName>
       </Content>
     </ModContent>
   </PropertyGroup>
@@ -195,10 +195,6 @@
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
-    <Content Include="Lua\AddFoundationBonuses.lua">
-      <SubType>Lua</SubType>
-      <ImportIntoVFS>True</ImportIntoVFS>
-    </Content>
     <Content Include="Lua\FoundationSetup.lua">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
@@ -223,7 +219,7 @@
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
-    <Content Include="Lua\SecondFoundationer.lua">
+    <Content Include="Lua\SecondFoundationEffects.lua">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
