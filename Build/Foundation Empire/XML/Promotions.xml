@@ -3,6 +3,16 @@
 <GameData>
 	<UnitPromotions>
 		<Row>
+			<Type>PROMOTION_FOUNDATION_TRADER_MISSION</Type>
+			<Description>TXT_KEY_PROMOTION_FOUNDATION_TRADing_DESC</Description>
+			<Help>TXT_KEY_PROMOTION_FOUNDATION_TRADING_HELP</Help>
+			<TradeMissionInfluenceModifier>-20</TradeMissionInfluenceModifier>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<VisibilityChange>1</VisibilityChange>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+		</Row>
+		<Row>
 			<Type>PROMOTION_FOUNDATION_VISIBILITY</Type>
 			<Description>TXT_KEY_PROMOTION_FOUNDATION_VISIBILITY_DESC</Description>
 			<Help>TXT_KEY_PROMOTION_FOUNDATION_VISIBILITY_HELP</Help>

@@ -190,6 +190,12 @@
 		<Row Tag="TXT_KEY_PROMOTION_FOUNDATION_VISIBILITY_DESC">
 			<Text>Foundation Optics</Text>
 		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FOUNDATION_TRADING_DESC">
+			<Text>Foundation Trading</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FOUNDATION_TRADING_HELP">
+			<Text>Foundation Traders can gain influence and gold via trade with City-States.</Text>
+		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_FOUNDATION_VISIBILITY_HELP">
 			<Text>All melee, mounted, and gun units have 1 extra sight.</Text>
 		</Row>
@@ -218,11 +224,11 @@
 		</Row>
 
 		<Row Tag="TXT_KEY_UNIT_FOUNDATION_SCOUT">
-			<Text>Ranger</Text>
+			<Text>Trader</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_UNIT_HELP_FOUNDATION_SCOUT">
-			<Text>Excellent at exploring, a Foundation Ranger is fast, tough in combat, and carries a Foundation personal shield, providing a defensive bonus.</Text>
+			<Text>Excellent at exploring and gaining influence via trade with City States, a Foundation Trader is fast, tough in combat, and carries a Foundation personal shield, providing a defensive bonus.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_FOUNDATION_PROPHET">
 			<Text>Galactic Spirit Priest</Text>

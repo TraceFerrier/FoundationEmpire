@@ -96,8 +96,8 @@
 			<Class>UNITCLASS_SCOUT</Class>
 			<Type>UNIT_FOUNDATION_SCOUT</Type>
 			<Combat>10</Combat>
-			<Cost>20</Cost>
-			<Moves>4</Moves>
+			<Cost>25</Cost>
+			<Moves>5</Moves>
 			<CombatClass>UNITCOMBAT_RECON</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
 			<DefaultUnitAI>UNITAI_EXPLORE</DefaultUnitAI>
@@ -112,6 +112,8 @@
 			<ObsoleteTech>TECH_METALLURGY</ObsoleteTech>
 			<GoodyHutUpgradeUnitClass></GoodyHutUpgradeUnitClass>
 			<AdvancedStartCost>10</AdvancedStartCost>
+			<BaseGold>100</BaseGold>
+			<NumGoldPerEra>20</NumGoldPerEra>
 			<XPValueAttack>5</XPValueAttack>
 			<XPValueDefense>14</XPValueDefense>
 			<UnitArtInfo>ART_DEF_UNIT_SCOUT</UnitArtInfo>

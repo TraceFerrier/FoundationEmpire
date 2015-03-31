@@ -41,7 +41,7 @@
     <File md5="32CCEB101014E72EB613D5672A349339" import="1">Art/UnitModAtlas45.dds</File>
     <File md5="F6EB5AB7FD8958FEDDCC876EC48E6756" import="1">Art/UnitModAtlas64.dds</File>
     <File md5="7274EE1B5CEC6ABE4681DD50875FF5A3" import="1">Art/UnitModAtlas80.dds</File>
-    <File md5="9DB6ED37D8EE881753F6AD56C48AFE8B" import="1">CvGameCore_Expansion2.dll</File>
+    <File md5="AF9A8B2F50D9C5EE7EA6F36293534934" import="1">CvGameCore_Expansion2.dll</File>
     <File md5="6E6C9E9F9840AA4E46BE85392BD4E192" import="1">Lua/FoundationSetup.lua</File>
     <File md5="3AF9AA92799E205E88CC029E79BB1C6D" import="1">Lua/LoadScreen.lua</File>
     <File md5="6F7D3796C23FF3E7D480C4DDE9BACF3C" import="0">Lua/Lua Script1.lua</File>
@@ -58,11 +58,11 @@
     <File md5="D39D598B07B9D89E1076DB64787F8B4A" import="0">XML/Leaders/SeldonDiplomacy.xml</File>
     <File md5="454D69973E170A7840CB750232AB65D9" import="1">XML/Leaders/Seldon_Leader_Scene_Mod.xml</File>
     <File md5="572C7300230653A8F00D1C5F4377F8EC" import="0">XML/Leaders/Seldon_Scenario.xml</File>
-    <File md5="6B2CB1FFB10525FB8D5F555D28555C2F" import="0">XML/NewText.xml</File>
-    <File md5="314A01D338B25D3B74F427C0178902EA" import="0">XML/Promotions.xml</File>
+    <File md5="EAD65BA94D8E13D27C4B3371C8CBAEB7" import="0">XML/NewText.xml</File>
+    <File md5="8A19B2FEB16916B848A6500B54401F9B" import="0">XML/Promotions.xml</File>
     <File md5="FEDD0A1BB2BDD34E8385661F9D81E604" import="0">XML/Specialists.xml</File>
-    <File md5="1E0B19CE93B8ED01A4DC2FC9A45682BD" import="0">XML/Traits.xml</File>
-    <File md5="A48583BA3CD6D9D5FB546B88C5BBBEBC" import="0">XML/Units.xml</File>
+    <File md5="227D4FB9E43D387788C545404EB654F3" import="0">XML/Traits.xml</File>
+    <File md5="46D71A865B0D23CCA341E9C04049F6EB" import="0">XML/Units.xml</File>
     <File md5="2A5DF1F41B6EA129599A5A9652B29665" import="0">XML/UnitsBackup.xml</File>
     <File md5="103F9FFCAFC909247E508BC4C3BEF5EC" import="0">XML/Unit_UniqueNames.xml</File>
   </Files>
