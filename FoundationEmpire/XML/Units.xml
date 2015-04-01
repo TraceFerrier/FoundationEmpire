@@ -112,8 +112,8 @@
 			<ObsoleteTech>TECH_METALLURGY</ObsoleteTech>
 			<GoodyHutUpgradeUnitClass></GoodyHutUpgradeUnitClass>
 			<AdvancedStartCost>10</AdvancedStartCost>
-			<BaseGold>100</BaseGold>
-			<NumGoldPerEra>20</NumGoldPerEra>
+			<BaseGold>0</BaseGold>
+			<NumGoldPerEra>10</NumGoldPerEra>
 			<XPValueAttack>5</XPValueAttack>
 			<XPValueDefense>14</XPValueDefense>
 			<UnitArtInfo>ART_DEF_UNIT_SCOUT</UnitArtInfo>
