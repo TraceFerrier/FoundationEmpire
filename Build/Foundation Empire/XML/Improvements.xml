@@ -15,8 +15,8 @@
 		</Row>
 		<Row>
 			<Type>IMPROVEMENT_FOUNDATION_CUSTOMS_HOUSE</Type>
-			<Description>TXT_KEY_IMPROVEMENT_CUSTOMS_HOUSE</Description>
-			<Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_CUSTOMS_HOUSE_TEXT</Civilopedia>
+			<Description>TXT_KEY_IMPROVEMENT_FOUNDATION_CUSTOMS_HOUSE</Description>
+			<Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_FOUNDATION_CUSTOMS_HOUSE_TEXT</Civilopedia>
 			<ArtDefineTag>ART_DEF_IMPROVEMENT_CUSTOMS_HOUSE</ArtDefineTag>
 			<BuildableOnResources>true</BuildableOnResources>
 			<PillageGold>20</PillageGold>

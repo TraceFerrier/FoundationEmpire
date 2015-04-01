@@ -91,6 +91,11 @@
         <Type>UpdateDatabase</Type>
         <FileName>XML/Unit_UniqueNames.xml</FileName>
       </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Missions.xml</FileName>
+      </Action>
     </ModActions>
     <ModContent>
       <Content>
@@ -256,6 +261,10 @@
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
     <Content Include="XML\Leaders\Seldon_Scenario.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Missions.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>

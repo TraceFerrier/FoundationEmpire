@@ -4,7 +4,7 @@
 	<UnitPromotions>
 		<Row>
 			<Type>PROMOTION_FOUNDATION_TRADER_MISSION</Type>
-			<Description>TXT_KEY_PROMOTION_FOUNDATION_TRADing_DESC</Description>
+			<Description>TXT_KEY_PROMOTION_FOUNDATION_TRADING_DESC</Description>
 			<Help>TXT_KEY_PROMOTION_FOUNDATION_TRADING_HELP</Help>
 			<TradeMissionInfluenceModifier>-20</TradeMissionInfluenceModifier>
 			<PortraitIndex>59</PortraitIndex>
