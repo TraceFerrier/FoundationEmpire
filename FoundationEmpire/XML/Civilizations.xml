@@ -54,7 +54,13 @@
 		<Row>
 			<CivilizationType>CIVILIZATION_FOUNDATION</CivilizationType>
 			<UnitClassType>UNITCLASS_MERCHANT</UnitClassType>
-			<Count>0</Count>
+			<Count>2</Count>
+			<UnitAIType>UNITAI_MERCHANT</UnitAIType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FOUNDATION</CivilizationType>
+			<UnitClassType>UNITCLASS_SCOUT</UnitClassType>
+			<Count>2</Count>
 			<UnitAIType>UNITAI_MERCHANT</UnitAIType>
 		</Row>
 	</Civilization_FreeUnits>

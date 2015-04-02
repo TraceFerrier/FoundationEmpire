@@ -41,7 +41,7 @@
     <File md5="32CCEB101014E72EB613D5672A349339" import="1">Art/UnitModAtlas45.dds</File>
     <File md5="F6EB5AB7FD8958FEDDCC876EC48E6756" import="1">Art/UnitModAtlas64.dds</File>
     <File md5="7274EE1B5CEC6ABE4681DD50875FF5A3" import="1">Art/UnitModAtlas80.dds</File>
-    <File md5="2366639A36F71BB529AA96801C0C66DA" import="1">CvGameCore_Expansion2.dll</File>
+    <File md5="3B282BF44625BBE3B3D220AB2365EF18" import="1">CvGameCore_Expansion2.dll</File>
     <File md5="6E6C9E9F9840AA4E46BE85392BD4E192" import="1">Lua/FoundationSetup.lua</File>
     <File md5="3AF9AA92799E205E88CC029E79BB1C6D" import="1">Lua/LoadScreen.lua</File>
     <File md5="6F7D3796C23FF3E7D480C4DDE9BACF3C" import="0">Lua/Lua Script1.lua</File>
@@ -51,19 +51,19 @@
     <File md5="021EAEF2E3881849AC8A3A0D446E7B33" import="0">Lua/SecondFoundationEffects.lua</File>
     <File md5="2E6454514326D67B9429A108C8449CD2" import="0">XML/Buildings.xml</File>
     <File md5="CAA5EC232EA233950F8B687123F0571A" import="0">XML/Builds.xml</File>
-    <File md5="20B41D8A5E512FA41C469A590F85C268" import="0">XML/Civilizations.xml</File>
+    <File md5="220A9BB526F07D1C501B1068755A0E77" import="0">XML/Civilizations.xml</File>
     <File md5="DECF55631C9CA0271C9D52748A9CF37A" import="0">XML/Improvements.xml</File>
     <File md5="E54E2F3C45B74E62CA4595E40C6DCBDE" import="0">XML/Leaders/CIV5IconTextureAtlases.xml</File>
     <File md5="B64010F19780BA652C269EC654CA305B" import="0">XML/Leaders/CIV5Leader_Seldon.xml</File>
     <File md5="D39D598B07B9D89E1076DB64787F8B4A" import="0">XML/Leaders/SeldonDiplomacy.xml</File>
     <File md5="454D69973E170A7840CB750232AB65D9" import="1">XML/Leaders/Seldon_Leader_Scene_Mod.xml</File>
     <File md5="572C7300230653A8F00D1C5F4377F8EC" import="0">XML/Leaders/Seldon_Scenario.xml</File>
-    <File md5="057942A39162A4B2B1E5530E797D2F5E" import="0">XML/Missions.xml</File>
-    <File md5="20BE9F004F124662AC24F123DC0ECD17" import="0">XML/NewText.xml</File>
+    <File md5="BA2C4642B0DFDC047F5520C2AB8299B9" import="0">XML/Missions.xml</File>
+    <File md5="509D5071DAC9525E55E21C88FCF29A13" import="0">XML/NewText.xml</File>
     <File md5="1B6391C104953A99670316FD1EABDEF6" import="0">XML/Promotions.xml</File>
     <File md5="FEDD0A1BB2BDD34E8385661F9D81E604" import="0">XML/Specialists.xml</File>
     <File md5="227D4FB9E43D387788C545404EB654F3" import="0">XML/Traits.xml</File>
-    <File md5="46D71A865B0D23CCA341E9C04049F6EB" import="0">XML/Units.xml</File>
+    <File md5="8C7C8498ED534E0C247D4F2F6215C33E" import="0">XML/Units.xml</File>
     <File md5="2A5DF1F41B6EA129599A5A9652B29665" import="0">XML/UnitsBackup.xml</File>
     <File md5="103F9FFCAFC909247E508BC4C3BEF5EC" import="0">XML/Unit_UniqueNames.xml</File>
   </Files>

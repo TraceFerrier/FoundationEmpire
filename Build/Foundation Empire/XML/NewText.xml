@@ -399,19 +399,34 @@
 		</Row>
 
 		<Row Tag="TXT_KEY_MISSION_CONDUCT_FOUNDATION_TRADE_MISSION_HELP">
-			<Text>If the unit is inside a City State's territory that you're not at war with, AND this unit is carrying trading supplies from a Foundation Trading Depot, this order will have the Trader conduct a trade mission, giving you a certain amount of [ICON_GOLD] Gold and improving relations with the City State, without consuming the Trader. The amount of gold and influence you receive depends on the amount of trading supplies the Trader is carrying (and the supplies will be consumed).</Text>
+			<Text>If the unit is inside a City State's territory that you're not at war with, AND this unit is carrying trading supplies from a Foundation Trading Depot, this order will have the Trader conduct a trade mission, giving you a certain amount of [ICON_GOLD] Gold, and improving relations with the City State (consuming the supplies, but not the Trader). The amount of gold and influence you receive depends on the amount of trading supplies the Trader is carrying.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_MISSION_CONDUCT_FOUNDATION_TRADE_MISSION_DISABLED_HELP">
-			<Text>Unit must be in a City State's territory that you're not at war with.</Text>
+			<Text>Unit must be in a City State's territory that you're not at war with, and must be carrying trading supplies (which can be picked up at a Foundation Trading Depot).</Text>
 		</Row>
+
+		
+		<Row Tag="TXT_KEY_MISSION_CONDUCT_FOUNDATION_TRADE_SUPPLY_REPORT">
+			<Text>Foundation Trader Supply Report</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISSION_CONDUCT_FOUNDATION_TRADE_SUPPLY_REPORT_HELP">
+			<Text>Reports the current number of supply crates being carried by this unit. Also, if the unit is positioned at a Foundation Trading Depot, the number of crates at the Depot will also be reported.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISSION_CONDUCT_FOUNDATION_TRADE_SUPPLY_REPORT_MISSION_DISABLED_HELP">
+			<Text></Text>
+		</Row>
+
+
 
 		<Row Tag="TXT_KEY_MISSION_FOUNDATION_DEPOT_SUPPLY_PICKUP">
 			<Text>Foundation Trader Depot Supply Pickup Mission</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_MISSION_FOUNDATION_DEPOT_SUPPLY_PICKUP_HELP">
-			<Text>If the unit is at a Foundation Trader Depot (which can only be created by a Merchant Prince), this order will pick up any trading supplies available at the depot, without consuming the Trader. These supplies can then be used to conduct a trading mission to any city-state that you are not at war with.</Text>
+			<Text>If the unit is at a Foundation Trader Depot (created by a Merchant Prince), this order will pick up any trading supplies available at the depot (without consuming the Trader). These supplies can then be used to conduct a trading mission to any city-state that you are not at war with.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_MISSION_FOUNDATION_DEPOT_SUPPLY_PICKUP_DISABLED_HELP">
@@ -425,6 +440,18 @@
 		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FOUNDATION_CUSTOMS_HOUSE_TEXT">
 			<Text>A Customs House is a governmental building where taxes are paid on a country's imported and exported goods. It ensures that the government gets its cut (or "fair share," if you prefer) of profits on every cargo moving through a harbor. Given the amount of money involved, the opportunity for corruption is unlimited. Throughout history customs officials have not been famous for resisting temptation.</Text>
 		</Row>
+		<Row Tag="TXT_KEY_FOUNDATION_DEPOT_SUPPLY_PICKUP_RESULT">
+			<Text>You have picked up {1_Num} crates of trading supplies from the Trade Depot - you are now carrying a total of {2_Num} crates, out of a maximum total of {3_Num}.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_FOUNDATION_SUPPLY_REPORT">
+			<Text>This unit is carrying a total of {1_Num} trading supply crates, out of a maximum total of {2_Num}.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_FOUNDATION_SUPPLY_DEPOT_REPORT">
+			<Text>This unit is carrying a total of {1_Num} trading supply crates, out of a maximum total of {2_Num}. This Trading Depot currently has {3_Num} supply crates available for pickup.</Text>
+		</Row>
+
 	</Language_en_US>
 
 </GameData>
