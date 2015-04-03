@@ -22,7 +22,7 @@
 			<Type>UNIT_SECOND_FOUNDATIONER</Type>
 			<Moves>5</Moves>
 			<GoldenAgeTurns>12</GoldenAgeTurns>
-			<WorkRate>225</WorkRate>
+			<WorkRate>200</WorkRate>
 			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_HIGH</CivilianAttackPriority>
 			<Special>SPECIALUNIT_PEOPLE</Special>
 			<Domain>DOMAIN_LAND</Domain>
@@ -96,11 +96,11 @@
 			<Class>UNITCLASS_SCOUT</Class>
 			<Type>UNIT_FOUNDATION_SCOUT</Type>
 			<Combat>10</Combat>
-			<Cost>25</Cost>
+			<Cost>30</Cost>
 			<Moves>5</Moves>
 			<CombatClass>UNITCOMBAT_RECON</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
-			<DefaultUnitAI>UNITAI_EXPLORE</DefaultUnitAI>
+			<DefaultUnitAI>UNITAI_DEFENSE</DefaultUnitAI>
 			<Description>TXT_KEY_UNIT_FOUNDATION_SCOUT</Description>
 			<Civilopedia>TXT_KEY_CIV5_ANTIQUITY_SCOUT_TEXT</Civilopedia>
 			<Strategy>TXT_KEY_UNIT_SCOUT_STRATEGY</Strategy>
@@ -109,10 +109,8 @@
 			<Pillage>true</Pillage>
 			<MilitarySupport>true</MilitarySupport>
 			<MilitaryProduction>true</MilitaryProduction>
-			<ObsoleteTech>TECH_METALLURGY</ObsoleteTech>
 			<GoodyHutUpgradeUnitClass></GoodyHutUpgradeUnitClass>
 			<AdvancedStartCost>10</AdvancedStartCost>
-			<BaseGold>0</BaseGold>
 			<NumGoldPerEra>10</NumGoldPerEra>
 			<XPValueAttack>5</XPValueAttack>
 			<XPValueDefense>14</XPValueDefense>

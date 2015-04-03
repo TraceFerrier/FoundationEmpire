@@ -23,7 +23,6 @@
 			<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
 			<GreatPeopleRateChange>3</GreatPeopleRateChange>
 			<SpecialistCount>3</SpecialistCount>
-			<GlobalCultureRateModifier>25</GlobalCultureRateModifier>
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>45</ConquestProb>
 			<HurryCostModifier>4</HurryCostModifier>
@@ -34,7 +33,6 @@
 		<Row>
 			<Type>BUILDING_SECOND_FOUNDATION_ACADEMY</Type>
 			<BuildingClass>BUILDINGCLASS_SECOND_FOUNDATION_ACADEMY</BuildingClass>
-			<MaxStartEra>ERA_RENAISSANCE</MaxStartEra>
 			<Cost>110</Cost>
 			<GoldMaintenance>0</GoldMaintenance>
 			<PrereqTech>TECH_PHILOSOPHY</PrereqTech>
@@ -105,8 +103,8 @@
 			<Strategy>TXT_KEY_BUILDING_MARKET_STRATEGY</Strategy>
 			<ArtDefineTag>ART_DEF_BUILDING_MARKET</ArtDefineTag>
 			<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
-			<SpecialistCount>2</SpecialistCount>
-			<GreatPeopleRateChange>3</GreatPeopleRateChange>
+			<SpecialistCount>3</SpecialistCount>
+			<GreatPeopleRateChange>5</GreatPeopleRateChange>
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>50</ConquestProb>
 			<HurryCostModifier>20</HurryCostModifier>
