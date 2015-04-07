@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by ModBuddy on 3/7/2015 6:17:15 PM -->
 <GameData>
-	<BuildingClasses>
-		<Row>
-			<Type>BUILDINGCLASS_SECOND_FOUNDATION_ACADEMY</Type>
-			<Description>TXT_KEY_BUILDING_SECOND_FOUNDATION_ACADEMY</Description>
-			<DefaultBuilding>BUILDING_SECOND_FOUNDATION_ACADEMY</DefaultBuilding>
-		</Row>
-	</BuildingClasses>
 	<Buildings>
 		<Row>
 			<Type>BUILDING_GALACTIC_LIBRARY</Type>
@@ -32,14 +25,14 @@
 
 		<Row>
 			<Type>BUILDING_SECOND_FOUNDATION_ACADEMY</Type>
-			<BuildingClass>BUILDINGCLASS_SECOND_FOUNDATION_ACADEMY</BuildingClass>
+			<BuildingClass>BUILDINGCLASS_UNIVERSITY</BuildingClass>
 			<Cost>110</Cost>
 			<GoldMaintenance>0</GoldMaintenance>
 			<PrereqTech>TECH_PHILOSOPHY</PrereqTech>
 			<Help>TXT_KEY_BUILDING_SECOND_FOUNDATION_ACADEMY_HELP</Help>
 			<Description>TXT_KEY_BUILDING_SECOND_FOUNDATION_ACADEMY</Description>
-			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_TEMPLE_TEXT</Civilopedia>
-			<Strategy>TXT_KEY_BUILDING_TEMPLE_STRATEGY</Strategy>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_SECOND_FOUNDATION_ACADEMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_SECOND_FOUNDATION_ACADEMY_STRATEGY</Strategy>
 			<SpecialistType>SPECIALIST_MENTALIC</SpecialistType>
 			<GreatPeopleRateChange>3</GreatPeopleRateChange>
 			<SpecialistCount>3</SpecialistCount>
@@ -87,7 +80,7 @@
 			<GreatPeopleRateChange>3</GreatPeopleRateChange>
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>50</ConquestProb>
-			<HurryCostModifier>25</HurryCostModifier>
+			<HurryCostModifier>20</HurryCostModifier>
 			<IconAtlas>BW_ATLAS_1</IconAtlas>
 			<PortraitIndex>28</PortraitIndex>
 		</Row>

@@ -54,7 +54,7 @@
 		<Row>
 			<CivilizationType>CIVILIZATION_FOUNDATION</CivilizationType>
 			<UnitClassType>UNITCLASS_MERCHANT</UnitClassType>
-			<Count>0</Count>
+			<Count>1</Count>
 			<UnitAIType>UNITAI_MERCHANT</UnitAIType>
 		</Row>
 		<Row>
@@ -107,6 +107,11 @@
 		</Row>
 		<Row>
 			<CivilizationType>CIVILIZATION_FOUNDATION</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_UNIVERSITY</BuildingClassType>
+			<BuildingType>BUILDING_SECOND_FOUNDATION_ACADEMY</BuildingType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FOUNDATION</CivilizationType>
 			<BuildingClassType>BUILDINGCLASS_TEMPLE</BuildingClassType>
 			<BuildingType>BUILDING_GALACTIC_TEMPLE</BuildingType>
 		</Row>
@@ -121,7 +126,7 @@
 			<BuildingType>BUILDING_FOUNDATION_MARKET</BuildingType>
 		</Row>
 	</Civilization_BuildingClassOverrides>
-	
+
 	<UnitCombatInfos>
 		<Row>
 			<Type>UNITCOMBAT_CIVILIAN</Type>

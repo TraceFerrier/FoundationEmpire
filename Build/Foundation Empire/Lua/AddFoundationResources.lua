@@ -32,11 +32,13 @@ function AddFoundationResources(foundationPlayer)
 	local resourceToAddCount = 0;
 	local iHandicap = Game:GetHandicapType();
 	if (iHandicap == 7) then
-		resourceToAddCount = 5;
-	elseif (iHandicap == 6) then
 		resourceToAddCount = 4;
+	elseif (iHandicap == 6) then
+		resourceToAddCount = 3;
 	elseif (iHandicap == 5) then
 		resourceToAddCount = 2;
+	elseif (iHandicap == 4) then
+		resourceToAddCount = 1;
 	end
 	
 	print("Resources to add: " .. resourceToAddCount);

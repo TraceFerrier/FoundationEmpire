@@ -77,9 +77,8 @@
 			<Domain>DOMAIN_LAND</Domain>
 			<DefaultUnitAI>UNITAI_MERCHANT</DefaultUnitAI>
 			<Description>TXT_KEY_UNIT_FOUNDATION_MERCHANT_PRINCE</Description>
-			<Civilopedia>TXT_KEY_CIV5_GREATMERCHANTS_TEXT</Civilopedia>
-			<Strategy>TXT_KEY_UNIT_GREAT_MERCHANT_HELP</Strategy>
-			<Help>TXT_KEY_UNIT_GREAT_MERCHANT_HELP</Help>
+			<Civilopedia>TXT_KEY_CIV5_FOUNDATION_MERCHANT_PRINCE_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_FOUNDATION_MERCHANT_PRINCE_STRATEGY</Strategy>
 			<AdvancedStartCost>-1</AdvancedStartCost>
 			<WorkRate>1</WorkRate>
 			<CombatLimit>0</CombatLimit>

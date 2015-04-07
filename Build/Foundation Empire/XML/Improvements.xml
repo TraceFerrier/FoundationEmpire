@@ -63,19 +63,19 @@
 			<ImprovementType>IMPROVEMENT_FOUNDATION_ACADEMY</ImprovementType>
 			<TechType>TECH_MATHEMATICS</TechType>
 			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>3</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<ImprovementType>IMPROVEMENT_FOUNDATION_ACADEMY</ImprovementType>
 			<TechType>TECH_EDUCATION</TechType>
 			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>3</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<ImprovementType>IMPROVEMENT_FOUNDATION_ACADEMY</ImprovementType>
 			<TechType>TECH_PHYSICS</TechType>
 			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>3</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<ImprovementType>IMPROVEMENT_FOUNDATION_ACADEMY</ImprovementType>
@@ -87,31 +87,31 @@
 			<ImprovementType>IMPROVEMENT_FOUNDATION_ACADEMY</ImprovementType>
 			<TechType>TECH_CHEMISTRY</TechType>
 			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>3</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<ImprovementType>IMPROVEMENT_FOUNDATION_ACADEMY</ImprovementType>
 			<TechType>TECH_SCIENTIFIC_THEORY</TechType>
 			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>3</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<ImprovementType>IMPROVEMENT_FOUNDATION_ACADEMY</ImprovementType>
 			<TechType>TECH_BIOLOGY</TechType>
 			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>3</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<ImprovementType>IMPROVEMENT_FOUNDATION_ACADEMY</ImprovementType>
 			<TechType>TECH_ELECTRICITY</TechType>
 			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>3</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<ImprovementType>IMPROVEMENT_FOUNDATION_ACADEMY</ImprovementType>
 			<TechType>TECH_ATOMIC_THEORY</TechType>
 			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>4</Yield>
+			<Yield>2</Yield>
 		</Row>
 
 		<Row>

@@ -45,27 +45,27 @@
 
 		<Row>
 			<UnitType>UNIT_FOUNDATION_MERCHANT_PRINCE</UnitType>
-			<UniqueName>TXT_KEY_MERCHANT_PRINCE_0</UniqueName>
+			<UniqueName>TXT_KEY_FOUNDATION_MERCHANT_PRINCE_0</UniqueName>
 		</Row>
 		<Row>
 			<UnitType>UNIT_FOUNDATION_MERCHANT_PRINCE</UnitType>
-			<UniqueName>TXT_KEY_MERCHANT_PRINCE_1</UniqueName>
+			<UniqueName>TXT_KEY_FOUNDATION_MERCHANT_PRINCE_1</UniqueName>
 		</Row>
 		<Row>
 			<UnitType>UNIT_FOUNDATION_MERCHANT_PRINCE</UnitType>
-			<UniqueName>TXT_KEY_MERCHANT_PRINCE_2</UniqueName>
+			<UniqueName>TXT_KEY_FOUNDATION_MERCHANT_PRINCE_2</UniqueName>
 		</Row>
 		<Row>
 			<UnitType>UNIT_FOUNDATION_MERCHANT_PRINCE</UnitType>
-			<UniqueName>TXT_KEY_MERCHANT_PRINCE_3</UniqueName>
+			<UniqueName>TXT_KEY_FOUNDATION_MERCHANT_PRINCE_3</UniqueName>
 		</Row>
 		<Row>
 			<UnitType>UNIT_FOUNDATION_MERCHANT_PRINCE</UnitType>
-			<UniqueName>TXT_KEY_MERCHANT_PRINCE_4</UniqueName>
+			<UniqueName>TXT_KEY_FOUNDATION_MERCHANT_PRINCE_4</UniqueName>
 		</Row>
 		<Row>
 			<UnitType>UNIT_FOUNDATION_MERCHANT_PRINCE</UnitType>
-			<UniqueName>TXT_KEY_MERCHANT_PRINCE_5</UniqueName>
+			<UniqueName>TXT_KEY_FOUNDATION_MERCHANT_PRINCE_5</UniqueName>
 		</Row>
 
 	</Unit_UniqueNames>
