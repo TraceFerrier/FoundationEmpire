@@ -54,7 +54,7 @@
 		<Row>
 			<CivilizationType>CIVILIZATION_FOUNDATION</CivilizationType>
 			<UnitClassType>UNITCLASS_MERCHANT</UnitClassType>
-			<Count>1</Count>
+			<Count>0</Count>
 			<UnitAIType>UNITAI_MERCHANT</UnitAIType>
 		</Row>
 		<Row>
